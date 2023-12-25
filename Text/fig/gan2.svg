@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4143"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="gan2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4145"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0289025"
+     inkscape:cx="401.39857"
+     inkscape:cy="231.31443"
+     inkscape:window-width="1484"
+     inkscape:window-height="710"
+     inkscape:window-x="372"
+     inkscape:window-y="45"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4140">
+    <rect
+       x="27.213462"
+       y="35.960647"
+       width="733.79157"
+       height="319.75818"
+       id="rect9515" />
+    <marker
+       style="overflow:visible"
+       id="marker9378"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path9376"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect8858"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4322"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3102"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3102-7"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3102-7-2"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057-9"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3102-0"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057-1"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4322-6"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1265"
+       transform="translate(14.187902,8.6736832)"
+       inkscape:export-filename="gan2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:0.992481;fill:#bff9ff;fill-opacity:1;stroke:#080000;stroke-width:0.344323;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
+         id="rect111"
+         width="42.807751"
+         height="18.63555"
+         x="50.598408"
+         y="31.826387" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.89884px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.172471"
+         x="73.343697"
+         y="33.100231"
+         id="text953"
+         transform="scale(0.74934792,1.3344936)"><tspan
+           sodipodi:role="line"
+           id="tspan951"
+           style="stroke-width:0.172471"
+           x="73.343697"
+           y="33.100231">Discriminator</tspan></text>
+    </g>
+    <g
+       id="g1253"
+       transform="translate(3.3429652,32.618458)">
+      <ellipse
+         style="opacity:0.992481;fill:#fbffbf;fill-opacity:1;stroke:#080000;stroke-width:0.398502;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1057"
+         cx="27.000858"
+         cy="38.05835"
+         rx="15.462311"
+         ry="13.662253" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.05379px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.151346"
+         x="22.486826"
+         y="29.145163"
+         id="text1218"
+         transform="scale(0.72242946,1.3842182)"><tspan
+           sodipodi:role="line"
+           id="tspan1216"
+           style="stroke-width:0.151346"
+           x="22.486826"
+           y="29.145163">現実の画像</tspan></text>
+    </g>
+    <g
+       id="g13292">
+      <ellipse
+         style="opacity:0.992481;fill:#ffbfcd;fill-opacity:1;stroke:#080000;stroke-width:0.435436;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1057-3"
+         cx="149.79047"
+         cy="48.654694"
+         rx="26.11561"
+         ry="9.6579456" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.53623px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.138406"
+         x="179.94804"
+         y="37.326641"
+         id="text1244"
+         transform="scale(0.72885303,1.3720187)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.138406"
+           x="179.94804"
+           y="37.326641"
+           id="tspan3703">出力と正解を比較</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#d0001a;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9378);fill-opacity:1"
+       d="m 175.11984,47.315786 c 5.57186,-0.171442 11.14347,-0.342877 13.62914,-4.071493 2.48567,-3.728616 1.88566,-11.014415 -14.48649,-14.443235 -16.37214,-3.42882 -48.51538,-3.000243 -64.50173,-0.771421 -15.986341,2.228822 -15.81491,6.257441 -15.643488,10.285865"
+       id="path8856"
+       inkscape:path-effect="#path-effect8858"
+       inkscape:original-d="m 175.11984,47.315786 c 5.57187,-0.17117 11.14348,-0.342604 16.71482,-0.514303 -0.59977,-7.285826 -1.19977,-14.571625 -1.80006,-21.857835 -32.14425,0.428858 -64.28749,0.857435 -96.43163,1.285755 0.171701,4.029045 0.343133,8.057664 0.514302,12.086099" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.38612px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184653"
+       x="115.63302"
+       y="24.540653"
+       id="text9460"
+       transform="scale(1.0734783,0.93155121)"><tspan
+         sodipodi:role="line"
+         id="tspan9458"
+         style="stroke-width:0.184653"
+         x="115.63302"
+         y="24.540653">重み更新</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text9513"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9515);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="g1253-7"
+       transform="translate(3.6001187,-3.560393)">
+      <ellipse
+         style="opacity:0.992481;fill:#fbffbf;fill-opacity:1;stroke:#080000;stroke-width:0.398502;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1057-5"
+         cx="27.000858"
+         cy="38.05835"
+         rx="15.462311"
+         ry="13.662253" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.65778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.116445"
+         x="17.597248"
+         y="31.949938"
+         id="text1218-5"
+         transform="scale(0.95302581,1.0492895)"><tspan
+           sodipodi:role="line"
+           id="tspan1216-4"
+           style="stroke-width:0.116445"
+           x="17.597248"
+           y="31.949938">Generator</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.116445"
+           x="17.597248"
+           y="37.772163"
+           id="tspan4318">が生成した</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.116445"
+           x="17.597248"
+           y="43.646427"
+           id="tspan4316">画像</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.825719;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1-5)"
+       d="m 109.3758,49.236455 c 3.69582,-0.06505 7.39154,-0.130102 11.08714,-0.19515"
+       id="path3100-9"
+       inkscape:path-effect="#path-effect3102-0"
+       inkscape:original-d="m 109.3758,49.236455 c 3.69582,-0.0649 7.39154,-0.1299 11.08714,-0.19515" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1);stroke-dasharray:none"
+       d="m 48.344391,37.286898 c 4.800458,3.171731 9.600611,6.343259 14.400458,9.514586"
+       id="path4320"
+       inkscape:path-effect="#path-effect4322"
+       inkscape:original-d="m 48.344391,37.286898 c 4.800417,3.171793 9.60057,6.343322 14.400458,9.514586" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1-7)"
+       d="M 49.996262,69.36819 C 54.089245,65.324459 58.181968,61.280984 62.27443,57.237768"
+       id="path4320-0"
+       inkscape:path-effect="#path-effect4322-6"
+       inkscape:original-d="M 49.996262,69.36819 C 54.089297,65.324512 58.182021,61.281038 62.27443,57.237768" />
+  </g>
+</svg>
